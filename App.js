@@ -1,0 +1,1 @@
+(PLACEHOLDER_FOR_APP_JS)  # Will be replaced in next step
